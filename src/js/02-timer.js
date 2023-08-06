@@ -17,8 +17,8 @@ btnStart.addEventListener('click', onStartTimer);
 btnStart.disabled = true;
 
 
-// let currentDate = null;
-// let selectedDate = null;
+let currentDate = null;
+let selectedDate = null;
 
 
 const options = {
